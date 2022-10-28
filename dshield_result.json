@@ -1,0 +1,44 @@
+{
+  "ip": {
+    "number": "141.98.10.71",
+    "count": 160,
+    "attacks": 2,
+    "maxdate": "2022-10-28",
+    "mindate": "2022-06-18",
+    "updated": "2022-10-28 16:29:31",
+    "comment": null,
+    "maxrisk": null,
+    "asabusecontact": ">>UNKNOWN<<",
+    "as": 209605,
+    "asname": "HOSTBALTIC",
+    "ascountry": "LT",
+    "assize": 1024,
+    "network": "141.98.10.0/24",
+    "threatfeeds": {
+      "blocklistde110": {
+        "lastseen": "2019-12-29",
+        "firstseen": "2019-11-14"
+      },
+      "blocklistde143": {
+        "lastseen": "2019-12-29",
+        "firstseen": "2019-11-14"
+      },
+      "blocklistde22": {
+        "lastseen": "2022-10-28",
+        "firstseen": "2022-06-18"
+      },
+      "blocklistde25": {
+        "lastseen": "2021-10-21",
+        "firstseen": "2019-11-13"
+      },
+      "blocklistde993": {
+        "lastseen": "2019-12-29",
+        "firstseen": "2019-11-14"
+      },
+      "blocklistdecourierimap": {
+        "lastseen": "2019-12-30",
+        "firstseen": "2019-11-14"
+      }
+    }
+  }
+}
